@@ -10,6 +10,8 @@ You are a security analyst at an investment firm called Imaginary Bank. An execu
 The executive suspects phishing because the software was never mentioned during a board meeting and forwards the email to the security team for investigation.
 
 🎯 Objective
+<img width="711" height="363" alt="image" src="https://github.com/user-attachments/assets/8fd29822-5f6d-4fbf-ba45-3a1b3b44ec87" />
+
 
 The goal of this activity is to:
 
